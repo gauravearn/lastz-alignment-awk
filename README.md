@@ -1,4 +1,4 @@
-# lastz_alignment_awk
+# lastz-alignment-awk
 genome sorting and plotting the length alignment from the lastz alignment for the node calculations before you import them for the calculations. 
 ```
 gem install youplot
